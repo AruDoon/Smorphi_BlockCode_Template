@@ -3,6 +3,9 @@ Smorphi Full module Example (Block-Code Style)
 
 I created this code where the program behaves at least somewhat the same as the one on the WefaaaRobotics Imaginary Smorphi Simulation.
 
+NOTE:
+Thise repository not also includes all the needed library to run the smorphi code. Simply clond or download and extract into your ArduinoIDE folder location
+
 ---
 
 ### How To Use??
